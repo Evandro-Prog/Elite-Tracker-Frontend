@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: var(--dark-blue);
+}
+
+.container h1 {
+  font-size: 20px;
+  color: var(--white);
+}
+
+.container p {
+  font-size: 12px;
+  color: var(--white);
+}
